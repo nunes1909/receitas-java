@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Receita</string>
+    <string name="titulo_receita">Título da receita</string>
+    <string name="descricao_receita">Descrição da receita</string>
+    <string-array name="tipo_receita_spinner">
+        <item>Refeição</item>
+        <item>Lanche</item>
+        <item>Café</item>
+        <item>Drink</item>
+    </string-array>
+</resources>
